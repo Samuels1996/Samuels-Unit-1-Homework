@@ -15,6 +15,9 @@ Thank you to:
 
 Lina Choi.
 
-Eric Hurst.
+James Edwards
 
-James Edwards.
+Eric Hurst
+
+Seamona Stewart
+
