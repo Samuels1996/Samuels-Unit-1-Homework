@@ -7,7 +7,7 @@ The previous code has used div tags for all main elements. I was able to refacto
 This document had also been missing an ID tag causing a link in the nav bar to no longer function. This has been repaired.
 
 Mock-Up photo
-<img src="./assets/images/welcome to horiseon.png" alt="This is the mock photo"/> 
+<img src="./assets/images/welcome-to-horiseon.png" alt="This is the mock photo"/> 
 This page is set to demonstrate the ability to clean up code
 
 Acknowledgments:
