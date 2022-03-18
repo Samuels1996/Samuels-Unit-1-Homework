@@ -13,11 +13,13 @@ Acknowledgments:
 
 Thank you to:
 
-Lina Choi.
+Lina Choi
 
 James Edwards
 
 Eric Hurst
 
 Seamona Stewart
+
+Myself
 
