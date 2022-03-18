@@ -1,13 +1,14 @@
+/* This is for the universal CSS selection */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* This sets the main background color */
 body {
     background-color: #d9dcd6;
 }
-
+/* This is going to set the main look and coloring for the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +24,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* This is going to be the nav selections */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* This hero class is going to be our main selector for the background photo below the header */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,12 +59,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* This float class is going to display the photo on the left hand side */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* This float class is going to display the photo on the right hand side */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -74,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* This is the font and look design for the aside section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,23 +86,23 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Additional color for aside section */
 .benefit-1 {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Look design for heading items in aside section */
 .benefit-1 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Will decide howe image is going to display in aside section */
 .benefit-1 img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* This is going to be color and font description for main sections in body. */
 .body-tag-1 {
     margin-bottom: 20px;
     padding: 50px;
@@ -110,23 +111,23 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Deciding height for images in main body sections */
 .body-tag-1 img {
     max-height: 200px;
 }
-
+/* Deciding additional font look for individual headings in main sections */
 .body-tag-1 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Footer description as well as font depiction */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Font size for bottom of footer. */
 .footer h2 {
     font-size: 20px;
 }
